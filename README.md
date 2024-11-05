@@ -2,31 +2,47 @@
 FlexibleIR helps organizations to prepare for cyber attack. It is a powerful platform built over years to enhance your Incident response capabilities. Handle everything from early warning alerts to major cyber crises like Ransomware and dark web data leaks. Key is to understand real incidents &amp; practise them over TableTops. 
 
 # Daily - 9 AM
-https://www.ransomware.live/
-https://www.bleepingcomputer.com/news/security/
-https://www.hackmageddon.com/
-https://github.com/ramimac/aws-customer-security-incidents
-https://cyware.com/cyber-security-news-articles
-https://portswigger.net/daily-swig/data-breach
-https://www.databreaches.net/news/
-https://thehackernews.com/
-https://threatpost.com
-https://github.com/JMousqueton/ransomware.live
-https://github.com/sophoslabs/IoCs/tree/master
-https://github.com/ramimac/aws-customer-security-incidents
+[Ransomware live](https://www.ransomware.live/)
+
+[bleepingcomputer](https://www.bleepingcomputer.com/news/security/)
+
+[hackmageddon](https://www.hackmageddon.com/)
+
+[cyware](https://cyware.com/cyber-security-news-articles)
+
+[portswigger](https://portswigger.net/daily-swig/data-breach)
+
+[databreaches.net](https://www.databreaches.net/news/)
+
+[thehackernews](https://thehackernews.com/)
+
+[threatpost](https://threatpost.com)
+
+[JMousqueton - Ransomware live](https://github.com/JMousqueton/ransomware.live)
+
+# AI Incidents
+
+# Azure Incidents
+
+# AWS Incidents
+[ramimac](https://github.com/ramimac/aws-customer-security-incidents
+
+# OT / ICS Incidents
 
 # Tools
 https://www.bleepingcomputer.com/news/security/cisa-releases-free-decider-tool-to-help-with-mitre-attandck-mapping/
 
 # Key references
-https://github.com/WillOram/cyber-incident-quick-links/blob/master/README.md
+[WillORam](ttps://github.com/WillOram/cyber-incident-quick-links/blob/master/README.md)
 
-# Threat hunting - Actively look at the latest Ransomware variants and build Incident Response Playbooks
+# Threat hunting 
 [Track Top Threats Weekly](https://hackmanac.com/news/hack-tuesday-week-23-29-october-2024)
 
 [Threat Hunting Keywords](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
 
 [Threat Hunting Keywords yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
+
+[Sophoslabs IoCs](https://github.com/sophoslabs/IoCs/tree/master)
 
 #Ransomware Notes
 https://github.com/ThreatLabz/ransomware_notes/tree/main
