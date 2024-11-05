@@ -18,6 +18,9 @@ https://github.com/ramimac/aws-customer-security-incidents
 # Tools
 https://www.bleepingcomputer.com/news/security/cisa-releases-free-decider-tool-to-help-with-mitre-attandck-mapping/
 
+# Key references
+https://github.com/WillOram/cyber-incident-quick-links/blob/master/README.md
+
 # Threat hunting - Actively look at the latest Ransomware variants and build Incident Response Playbooks
 [Track Top Threats Weekly](https://hackmanac.com/news/hack-tuesday-week-23-29-october-2024)
 
