@@ -20,7 +20,9 @@ https://www.bleepingcomputer.com/news/security/cisa-releases-free-decider-tool-t
 
 # Threat hunting - Actively look at the latest Ransomware variants and build Incident Response Playbooks
 [Track Top Threats Weekly](https://hackmanac.com/news/hack-tuesday-week-23-29-october-2024)
+
 [Threat Hunting Keywords](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
+
 [Threat Hunting Keywords yara rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
 
 #Ransomware Notes
